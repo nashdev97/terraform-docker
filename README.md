@@ -73,6 +73,9 @@ Command to save logs: tee logs/terraform_init.txt
 example : terraform init | tee logs/terraform_init.txt
 
 📸 Screeenshots
+<br>
+<img src='./Screenshots/Screenshot 2025-04-10 135528.png'>
+<br>
 ![alt text](Screenshots/Screenshot 2025-04-10 135528.png)
 ![alt text](Screenshot 2025-04-10 135708.png)
 ![alt text](Screenshot 2025-04-10 135820.png)
