@@ -27,14 +27,6 @@ Pulls the nginx:latest image.
 Provisions a container bound to a local port.
 Exposes the nginx server at http://localhost:<port>.
 
-
-
-
-
-
-
-
-
 🛠️ Step-by-Step Implementation
 
 1. Create a New Project Directory or 
@@ -76,9 +68,21 @@ example : terraform init | tee logs/terraform_init.txt
 <br>
 <img src='./Screenshots/Screenshot 2025-04-10 135528.png'>
 <br>
-![alt text](Screenshots/Screenshot 2025-04-10 135528.png)
-![alt text](Screenshot 2025-04-10 135708.png)
-![alt text](Screenshot 2025-04-10 135820.png)
-![alt text](Screenshot 2025-04-10 135858.png)
-![alt text](Screenshot 2025-04-10 135915.png)
-![alt text](Screenshot 2025-04-10 140148.png)
+<br>
+<img src='./Screenshots/Screenshot 2025-04-10 135708.png'>
+<br>
+
+<br>
+<img src='./Screenshots/Screenshot 2025-04-10 135820.png'>
+<br>
+
+<br>
+<img src='./Screenshots/Screenshot 2025-04-10 135858.png'>
+<br>
+
+<br>
+<img src='./Screenshots/Screenshot 2025-04-10 135915.png'>
+<br>
+<br>
+<img src='./Screenshots/Screenshot 2025-04-10 140148.png'>
+<br>
